@@ -1,8 +1,5 @@
-###This project was made by David LoBosco for CMSC425 (Spring 2017)
-at the University of Maryland, College Park.
-
-Name: David LoBosco
-Assignment Name: Programming Assignment 1, Part I
+#Name: David LoBosco
+#Assignment Name: Programming Assignment 1, Part I
  
 #The format of this document comes from a post on Piazza here: https://piazza.com/class/ixyg5h0fpdg2r4?cid=16
 
