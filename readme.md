@@ -1,7 +1,7 @@
 #Name: David LoBosco
 #Assignment Name: Programming Assignment 1, Part I
  
-#The format of this document comes from a post on Piazza here: https://piazza.com/class/ixyg5h0fpdg2r4?cid=16
+##The format of this document comes from a post on Piazza here: https://piazza.com/class/ixyg5h0fpdg2r4?cid=16
 
 ------------------------------------------------------------------------
 ##A. Required elements
